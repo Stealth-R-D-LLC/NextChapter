@@ -3,7 +3,7 @@
 **Private Payments, Final Settlement and Quantum Security**
 
 📄 **[Read the whitepaper (PDF)](Stealth-NextChapter-Whitepaper.pdf)** ·
-[Download the latest release](https://github.com/Stealth-R-D-LLC/nextChapter/releases/latest/download/Stealth-NextChapter-Whitepaper.pdf)
+[Download the latest release](https://github.com/Stealth-R-D-LLC/NextChapter/releases/latest/download/Stealth-NextChapter-Whitepaper.pdf)
 
 ## Abstract
 
@@ -45,7 +45,7 @@ client that trusts no server and per-request payments by software agents.
 ## Discussion
 
 Questions, comments and errata are welcome in
-[Issues](https://github.com/Stealth-R-D-LLC/nextChapter/issues).
+[Issues](https://github.com/Stealth-R-D-LLC/NextChapter/issues).
 
 ## Related
 
